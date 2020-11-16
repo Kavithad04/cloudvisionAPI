@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="CloudVisionProject:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>CloudVisionProject</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="CloudVisionProject-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="CloudVisionProject:war exploded" />
+    </root>
+  </artifact>
+</component>
